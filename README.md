@@ -26,4 +26,4 @@ Insert sample data for customers, products, and orders.
 3.4  c) Retrieve customers who have never placed an order.  
 3.4  d) Calculate the average order value across all orders.  
 
-Please refer the pdf file for your reference
+#  Please refer the pdf file for your reference
